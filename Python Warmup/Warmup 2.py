@@ -1,6 +1,3 @@
-from calendar import c
-from datetime import datetime
-
 classesTaken = []
 
 for classTaken in range(int(input("How many classes are you taking this semester? "))):
